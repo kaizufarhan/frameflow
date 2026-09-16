@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.local
+*.tsbuildinfo
+.DS_Store
+
+# Keep the supplied background masters local; the app ships optimized derivatives.
+src/background-images/*.png
